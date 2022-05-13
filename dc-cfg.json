@@ -1,0 +1,13 @@
+{
+	"prefix": "!",
+	"commands": {
+		"sayhi": {
+			"resp": "hiii",
+			"help": "say hii"
+		},
+		"anotherTest": {
+			"resp": "this is a test lol",
+			"help": "ayoyayoyoyaya"
+		}
+	}
+}
