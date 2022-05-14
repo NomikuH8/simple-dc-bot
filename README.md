@@ -1,6 +1,10 @@
 # simple-dc-bot
 simple discord bot. create commands, outputs and help messages easily
 
+### Install dependencies:
+
+`pip install -r requirements.txt`
+
 ### How to setup:
 
 1. Go to https://discord.com/developers/applications
